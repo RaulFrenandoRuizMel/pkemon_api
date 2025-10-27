@@ -63,6 +63,6 @@ fun MenuPrincipal(){
             )
         }
     ) { innerPadding ->
-        PantallaPrincipal(modificador = Modifier.padding(innerPadding))
+        PantallaMaquinas(modificador = Modifier.padding(innerPadding))
     }
 }
